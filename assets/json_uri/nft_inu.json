@@ -1,0 +1,17 @@
+{
+    "name": "NFT INU",
+    "description": "An NFT Inu",
+    "image": "ipfs://bafybeibnd3wi6xxfnbi7acwzlwhoxzcfli72yvf6rt5egckrfdragqe2gy/",
+    "attributes": [
+        {
+            "trait_type": "legs",
+            "value": 4
+        },
+        {
+            "trait_type": "rarity",
+            "value": 86
+        }
+    ]
+
+
+}

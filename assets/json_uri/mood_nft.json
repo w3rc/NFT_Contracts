@@ -1,0 +1,11 @@
+{
+    "name": "Mood NFT",
+    "description": "An NFT which changes based on mood",
+    "image": "ipfs://bafybeibnd3wi6xxfnbi7acwzlwhoxzcfli72yvf6rt5egckrfdragqe2gy/",
+    "attributes": [
+        {
+            "trait_type": "moodiness",
+            "value": 56
+        }
+    ]
+}

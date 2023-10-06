@@ -1,66 +1,31 @@
-## Foundry
+### Basic NFT
+ - Contract: `0x3e07810AB19592A0c8074aCcC6d7e46A872Bf7A7`
+ - Network: `Sepolia`
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
-Foundry consists of:
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
+Happy SVG: 
+```
+data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiID8+CjxzdmcgYmFzZVByb2ZpbGU9
+InRpbnkiIGhlaWdodD0iMjAwIiB2ZXJzaW9uPSIxLjIiIHdpZHRoPSIyMDAiIHhtbG5zPSJodHRw
+Oi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6ZXY9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEv
+eG1sLWV2ZW50cyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxk
+ZWZzIC8+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiBmaWxsPSJ5ZWxsb3ciIHI9IjkwIiBzdHJv
+a2U9InJnYigwJSwwJSwwJSkiIHN0cm9rZS13aWR0aD0iNSIgLz48Y2lyY2xlIGN4PSI3MCIgY3k9
+IjgwIiBmaWxsPSJibGFjayIgcj0iMTAiIC8+PGNpcmNsZSBjeD0iMTMwIiBjeT0iODAiIGZpbGw9
+ImJsYWNrIiByPSIxMCIgLz48cGF0aCBkPSJNIDYwIDEyMCBRIDEwMCAxODAgMTQwIDEyMCIgZmls
+bD0ibm9uZSIgc3Ryb2tlPSJyZ2IoMCUsMCUsMCUpIiBzdHJva2Utd2lkdGg9IjUiIC8+PC9zdmc+
 ```
 
-### Test
-
-```shell
-$ forge test
+Sad SVG:
 ```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
+data:image/svg+xmk;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiID8+CjxzdmcgYmFzZVByb2ZpbGU9
+InRpbnkiIGhlaWdodD0iMjAwIiB2ZXJzaW9uPSIxLjIiIHdpZHRoPSIyMDAiIHhtbG5zPSJodHRw
+Oi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6ZXY9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEv
+eG1sLWV2ZW50cyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxk
+ZWZzIC8+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiBmaWxsPSJ5ZWxsb3ciIHI9IjkwIiBzdHJv
+a2U9InJnYigwJSwwJSwwJSkiIHN0cm9rZS13aWR0aD0iNSIgLz48Y2lyY2xlIGN4PSI3MCIgY3k9
+IjgwIiBmaWxsPSJibGFjayIgcj0iMTAiIC8+PGNpcmNsZSBjeD0iMTMwIiBjeT0iODAiIGZpbGw9
+ImJsYWNrIiByPSIxMCIgLz48cGF0aCBkPSJNIDYwIDE2MCBRIDEwMCAxMjAgMTQwIDE2MCIgZmls
+bD0ibm9uZSIgc3Ryb2tlPSJyZ2IoMCUsMCUsMCUpIiBzdHJva2Utd2lkdGg9IjUiIC8+PC9zdmc+
 ```
